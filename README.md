@@ -7,11 +7,8 @@
 
 ### Side Projec
 - [D&C汪喵你我知 (寵物知識網)](https://susu3131.github.io/Side-project1-DCPet/)
-![image](https://user-images.githubusercontent.com/105415618/202088086-3ac33d04-7936-42ee-8f05-32361b2fde6c.png)r
 [GitHub repo](https://github.com/susu3131/Side-project1-DCPet)
-
 - [B&B 短期出租 / 民宿網](https://github.com/susu3131/Side-project2-bnb) (開發中) 歡迎追蹤 
-![image](https://user-images.githubusercontent.com/105415618/202089051-53c182a4-9ca9-4a01-a98a-77decc8807d1.png)
 
 ###  skills
 - Html/Css 
