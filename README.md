@@ -6,9 +6,11 @@
 雖然還是前端小萌新，還有很多需要進修學習的，也歡迎大家指教互相學習探討技術。
 
 ### Side Projec
-- [D&C汪喵你我知 (寵物知識網) Demo](https://susu3131.github.io/Side-project1-DCPet/)
+- [D&C汪喵你我知 (寵物知識網)](https://susu3131.github.io/Side-project1-DCPet/)
   、[GitHub repo](https://github.com/susu3131/Side-project1-DCPet)
-- [B&B 短期出租 / 民宿網](https://github.com/susu3131/Side-project2-bnb) (開發中) 歡迎追蹤 
+- [B&B 短期出租 / 民宿網](https://github.com/susu3131/Side-project2-bnb) (開發中) 
+- [拼圖趣 Puzzle (Vue)](https://susu3131.github.io/SideProject-puzzle/#/index) (開發中) 、[GitHub repo](https://github.com/susu3131/SideProject-puzzle)
+
 
 ###  skills
 - Html/Css 
@@ -16,7 +18,8 @@
 - Pug/Jade
 - Bootstrap
 - Tailwind
-- Javascript 基礎
+- Javascript 
+- Vue
 
 ### other skills
 - Photoshop
