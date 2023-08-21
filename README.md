@@ -7,14 +7,12 @@
 - 很期待能持續進修、也歡迎同好一起互相學習探討技術。
 
 ### Side Project
-- [D&C汪喵你我知 (寵物知識網)](https://susu3131.github.io/Side-project1-DCPet/)
-  、[GitHub repo](https://github.com/susu3131/Side-project1-DCPet)
-
+- [D&C汪喵你我知 (寵物知識網)](https://susu3131.github.io/Side-project1-DCPet/)、[GitHub repo](https://github.com/susu3131/Side-project1-DCPet)
 - [拼圖趣 Puzzle (Vue)](https://susu3131.github.io/SideProject-puzzle/#/index) (功能開發大致OK、細節待調整) 、[GitHub repo](https://github.com/susu3131/SideProject-puzzle)
 
 ### Practise / developing
 - [B&B 短期出租 / 民宿網](https://github.com/susu3131/Side-project2-bnb) (開發中) 
-- [練習切版](https://susu3131.github.io/interview/) 
+- [練習切版Demo](https://susu3131.github.io/interview/) 
 
 ###  skills
 - Html/Css 
