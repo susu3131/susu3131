@@ -23,12 +23,9 @@
 - Bootstrap
 - Tailwind
 - Javascript 
-- Vue
-
-### other skills
-- Photoshop
-- 繪圖工具
-- Figma
+- Vue2
+- Vue3、Nuxt (學習中
+- TypeScript (學習中
 
 ### 聯繫方式: 
 - 信箱 :anny81327@gmail.com
